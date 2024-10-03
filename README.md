@@ -3,7 +3,7 @@
 # ALeBRAnTE
 
 #### 👩‍🎓Tecnólogo em Desenvolvimento de sistemas | IFPR - Campus União da Vitória
-#### 🌱 Atualemnte estou estudando Kotlin
+#### 🌱 Atualmente estou estudando Kotlin
 #### 🟣 Presidente Executivo | NuCS - Núcleo da Empresas Júniores do Centro-Sul do Paraná
 </div>
 <br>
