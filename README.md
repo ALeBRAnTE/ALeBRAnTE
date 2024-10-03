@@ -1,10 +1,13 @@
+
+<div align="center">
 # ALeBRAnTE
 
 #### 👩‍🎓Tecnólogo em Desenvolvimento de sistemas | IFPR - Campus União da Vitória
 #### 🌱 Atualemnte estou estudando Kotlin
 #### 🟣 Presidente Executivo | NuCS - Núcleo da Empresas Júniores do Centro-Sul do Paraná
-
-<div>
+</div>
+<br>
+<div align="center">
   <a href="https://github.com/ALeBRAnTE">
     
   <a href="https://github.com/ALeBRAnTE">
@@ -13,11 +16,6 @@
 <a href="https://github.com/ALeBRAnTE">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALeBRAnTE&layout=compact&langs_count=7&theme=dark" />
 </a>
-    
-  
-
-  
-
 </div>
  <br>
 <div  align="center"> 
