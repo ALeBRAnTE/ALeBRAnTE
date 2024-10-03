@@ -7,16 +7,16 @@
 <div>
   <a href="https://github.com/ALeBRAnTE">
     
-  <a href="https://github.com/ALeBRAnTE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALeBRAnTE&repo=github-readme-stats" />
+  <a href="https://github.com/ALeBRAnTE">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ALeBRAnTE&show_icons=true&theme=dark"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALeBRAnTE&repo=convoychat" />
+<a href="https://github.com/ALeBRAnTE">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALeBRAnTE&layout=compact&langs_count=7&theme=dark" />
 </a>
     
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ALeBRAnTE&show_icons=true&theme=dark"/>
+  
 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALeBRAnTE&layout=compact&langs_count=7&theme=dark" />
+  
 
 </div>
  <br>
