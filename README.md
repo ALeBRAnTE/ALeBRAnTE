@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/ALeBRAnTE">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ALeBRAnTE&show_icons=true&theme=synthwave"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ALeBRAnTE&show_icons=true&theme=dark"/>
 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALeBRAnTE&layout=compact&langs_count=7&theme=synthwave" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALeBRAnTE&layout=compact&langs_count=7&theme=dark" />
 
 </div>
  <br>
